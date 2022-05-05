@@ -1,0 +1,15 @@
+C:\Venkata\trunk\simplilearn\section2.1.9\RainbowSchools\bin\Debug\net6.0\RainbowSchools.exe
+C:\Venkata\trunk\simplilearn\section2.1.9\RainbowSchools\bin\Debug\net6.0\RainbowSchools.deps.json
+C:\Venkata\trunk\simplilearn\section2.1.9\RainbowSchools\bin\Debug\net6.0\RainbowSchools.runtimeconfig.json
+C:\Venkata\trunk\simplilearn\section2.1.9\RainbowSchools\bin\Debug\net6.0\RainbowSchools.dll
+C:\Venkata\trunk\simplilearn\section2.1.9\RainbowSchools\bin\Debug\net6.0\RainbowSchools.pdb
+C:\Venkata\trunk\simplilearn\section2.1.9\RainbowSchools\obj\Debug\net6.0\RainbowSchools.csproj.AssemblyReference.cache
+C:\Venkata\trunk\simplilearn\section2.1.9\RainbowSchools\obj\Debug\net6.0\RainbowSchools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Venkata\trunk\simplilearn\section2.1.9\RainbowSchools\obj\Debug\net6.0\RainbowSchools.AssemblyInfoInputs.cache
+C:\Venkata\trunk\simplilearn\section2.1.9\RainbowSchools\obj\Debug\net6.0\RainbowSchools.AssemblyInfo.cs
+C:\Venkata\trunk\simplilearn\section2.1.9\RainbowSchools\obj\Debug\net6.0\RainbowSchools.csproj.CoreCompileInputs.cache
+C:\Venkata\trunk\simplilearn\section2.1.9\RainbowSchools\obj\Debug\net6.0\RainbowSchools.dll
+C:\Venkata\trunk\simplilearn\section2.1.9\RainbowSchools\obj\Debug\net6.0\refint\RainbowSchools.dll
+C:\Venkata\trunk\simplilearn\section2.1.9\RainbowSchools\obj\Debug\net6.0\RainbowSchools.pdb
+C:\Venkata\trunk\simplilearn\section2.1.9\RainbowSchools\obj\Debug\net6.0\RainbowSchools.genruntimeconfig.cache
+C:\Venkata\trunk\simplilearn\section2.1.9\RainbowSchools\obj\Debug\net6.0\ref\RainbowSchools.dll
